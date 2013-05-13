@@ -12,6 +12,7 @@ setup(
     version='0.0.3',
     packages=['ckeditor'],
     include_package_data=True,
+    zip_safe=False,
     license='BSD License',
     description='CKEDITOR',
     long_description=README,
