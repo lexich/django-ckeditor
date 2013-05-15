@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django-ckeditor',
-    version='0.0.4444',
+    version='0.0.5',
     packages=['ckeditor'],
     include_package_data=True,
     zip_safe=False,
